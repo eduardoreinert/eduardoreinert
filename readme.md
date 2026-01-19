@@ -2,7 +2,7 @@
 
 <div>
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoreinert&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoreinert&layout=compact&theme=dark)
 </div>
 
